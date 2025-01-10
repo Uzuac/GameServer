@@ -1,0 +1,1 @@
+To run both the server and the test console right click the Solution -> Properties -> Multiple Startup Project -> set Start on GameServer.Application and GameServer.TestApp -> Apply and then Start
