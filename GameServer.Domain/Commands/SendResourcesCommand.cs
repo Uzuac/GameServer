@@ -30,6 +30,7 @@ namespace GameServer.Domain.Commands
 
             var friendPlayer = _dbContext.Players.AsNoTracking()
                 .Include(p => p.Resources)
+                .Include(p => p.Devices)
                 .Where(p => p.Id == request.FriendPlayerId).FirstOrDefault();
 
             if (player == null || friendPlayer == null)
@@ -50,7 +51,7 @@ namespace GameServer.Domain.Commands
                 _dbContext.Resources.Add(friendResource);
             }
 
-            friendResource.UpdateWithAmount(request.ResourceValue);
+            var friendCurrentAmount = friendResource.UpdateWithAmount(request.ResourceValue);
 
             var resource = _dbContext.Resources.Where(r => r.Type == request.ResourceType && r.PlayerId == player.Id).FirstOrDefault();
             if (resource == null)
@@ -61,6 +62,7 @@ namespace GameServer.Domain.Commands
             var response = resource.UpdateWithAmount(-request.ResourceValue);
 
             await _dbContext.SaveChangesAsync();
+            await _notificationService.SendNotification(friendPlayer.Devices?.Select(d => d.Id).ToList(), $"{request.ResourceType.ToString()} {request.ResourceType} have been added to your account. Current balance is {friendCurrentAmount}");
 
             return $"{response} {request.ResourceType.ToString()} available";
         }

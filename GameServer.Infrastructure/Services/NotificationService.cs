@@ -9,12 +9,15 @@ namespace GameServer.Infrastructure.Services
         {
             _connectionManager = connectionManager;
         }
-        public async Task SendNotification(string deviceUuid, string message)
+        public async Task SendNotification(List<Guid> deviceIds, string message)
         {
-            var connection = _connectionManager.GetConnection(deviceUuid);
-            if (connection != null)
+            foreach (var deviceId in deviceIds)
             {
-                await connection.Send(message);
+                var connection = _connectionManager.GetConnection(deviceId.ToString());
+                if (connection != null)
+                {
+                    await connection.Send(message);
+                }
             }
         }
     }

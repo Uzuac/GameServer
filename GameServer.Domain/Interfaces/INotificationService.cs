@@ -8,6 +8,6 @@ namespace GameServer.Domain.Interfaces
 {
     public interface INotificationService
     {
-        Task SendNotification(string deviceUuid, string message);
+        Task SendNotification(List<Guid> deviceIds, string message);
     }
 }

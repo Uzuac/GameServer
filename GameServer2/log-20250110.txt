@@ -365,3 +365,98 @@
 2025-01-10 11:06:04.338 +02:00 [INF] Executed endpoint '/ws'
 2025-01-10 11:06:04.340 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - 101 null null 8178.0148ms
 2025-01-10 11:06:04.340 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - 101 null null 8239.0298ms
+2025-01-10 11:26:25.688 +02:00 [INF] Saved 4 entities to in-memory store.
+2025-01-10 11:26:25.891 +02:00 [INF] Now listening on: https://localhost:7200
+2025-01-10 11:26:25.891 +02:00 [INF] Now listening on: http://localhost:5123
+2025-01-10 11:26:25.893 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-10 11:26:25.893 +02:00 [INF] Hosting environment: Development
+2025-01-10 11:26:25.893 +02:00 [INF] Content root path: D:\Others\GameServer\GameServer2
+2025-01-10 11:26:26.208 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - null null
+2025-01-10 11:26:26.242 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 11:26:26.264 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - null null
+2025-01-10 11:26:26.264 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 11:26:29.470 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 11:26:30.742 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 11:26:31.288 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 11:26:31.906 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 11:26:32.857 +02:00 [INF] Saved 2 entities to in-memory store.
+2025-01-10 11:26:34.454 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 11:26:34.457 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - 101 null null 8253.2488ms
+2025-01-10 11:26:34.462 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 11:26:34.462 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - 101 null null 8198.5695ms
+2025-01-10 12:20:04.907 +02:00 [INF] Saved 4 entities to in-memory store.
+2025-01-10 12:20:05.145 +02:00 [INF] Now listening on: https://localhost:7200
+2025-01-10 12:20:05.145 +02:00 [INF] Now listening on: http://localhost:5123
+2025-01-10 12:20:05.147 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-10 12:20:05.147 +02:00 [INF] Hosting environment: Development
+2025-01-10 12:20:05.147 +02:00 [INF] Content root path: D:\Others\GameServer\GameServer2
+2025-01-10 12:20:05.371 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - null null
+2025-01-10 12:20:05.405 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 12:20:05.427 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - null null
+2025-01-10 12:20:05.428 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 12:20:07.805 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - null null
+2025-01-10 12:20:07.805 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 12:20:11.671 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - null null
+2025-01-10 12:20:11.671 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 12:20:24.882 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 12:20:28.031 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 12:20:28.566 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 12:20:29.164 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 12:20:34.522 +02:00 [INF] Saved 2 entities to in-memory store.
+2025-01-10 12:24:40.102 +02:00 [INF] Saved 2 entities to in-memory store.
+2025-01-10 12:28:54.891 +02:00 [INF] Saved 4 entities to in-memory store.
+2025-01-10 12:28:55.095 +02:00 [INF] Now listening on: https://localhost:7200
+2025-01-10 12:28:55.095 +02:00 [INF] Now listening on: http://localhost:5123
+2025-01-10 12:28:55.097 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-10 12:28:55.097 +02:00 [INF] Hosting environment: Development
+2025-01-10 12:28:55.097 +02:00 [INF] Content root path: D:\Others\GameServer\GameServer2
+2025-01-10 12:28:55.276 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - null null
+2025-01-10 12:28:55.316 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 12:28:55.341 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - null null
+2025-01-10 12:28:55.341 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 12:29:03.673 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - null null
+2025-01-10 12:29:03.673 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 12:29:05.048 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 12:29:08.456 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - null null
+2025-01-10 12:29:08.457 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 12:29:09.357 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 12:29:17.849 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 12:29:18.310 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 12:29:18.740 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 12:29:18.859 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 12:29:22.355 +02:00 [INF] Saved 2 entities to in-memory store.
+2025-01-10 12:29:22.437 +02:00 [ERR] Application error: Value cannot be null. (Parameter 'source')
+2025-01-10 12:29:22.438 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 12:29:22.441 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - 101 null null 18767.2444ms
+2025-01-10 12:29:38.478 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - null null
+2025-01-10 12:29:38.479 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 12:29:41.240 +02:00 [INF] Saved 2 entities to in-memory store.
+2025-01-10 12:29:47.765 +02:00 [ERR] Application error: Value cannot be null. (Parameter 'source')
+2025-01-10 12:29:47.765 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 12:29:47.765 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - 101 null null 9286.5843ms
+2025-01-10 12:30:07.232 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - null null
+2025-01-10 12:30:07.232 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 12:30:09.081 +02:00 [INF] Saved 2 entities to in-memory store.
+2025-01-10 12:30:19.889 +02:00 [ERR] Application error: Value cannot be null. (Parameter 'source')
+2025-01-10 12:30:19.889 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 12:30:19.889 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - 101 null null 12656.6976ms
+2025-01-10 12:30:51.593 +02:00 [INF] Saved 4 entities to in-memory store.
+2025-01-10 12:30:51.740 +02:00 [INF] Now listening on: https://localhost:7200
+2025-01-10 12:30:51.740 +02:00 [INF] Now listening on: http://localhost:5123
+2025-01-10 12:30:51.742 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-10 12:30:51.743 +02:00 [INF] Hosting environment: Development
+2025-01-10 12:30:51.743 +02:00 [INF] Content root path: D:\Others\GameServer\GameServer2
+2025-01-10 12:30:52.019 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - null null
+2025-01-10 12:30:52.057 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 12:30:52.082 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - null null
+2025-01-10 12:30:52.083 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 12:31:01.840 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - null null
+2025-01-10 12:31:01.840 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 12:31:03.232 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 12:31:06.207 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - null null
+2025-01-10 12:31:06.207 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 12:31:06.797 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 12:31:10.477 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 12:31:10.871 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 12:31:11.287 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 12:31:16.125 +02:00 [INF] Saved 2 entities to in-memory store.
