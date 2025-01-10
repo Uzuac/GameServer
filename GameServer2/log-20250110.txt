@@ -1,0 +1,367 @@
+2025-01-10 10:15:35.249 +02:00 [INF] Saved 4 entities to in-memory store.
+2025-01-10 10:15:35.393 +02:00 [INF] Now listening on: https://localhost:7200
+2025-01-10 10:15:35.394 +02:00 [INF] Now listening on: http://localhost:5123
+2025-01-10 10:15:35.395 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-10 10:15:35.396 +02:00 [INF] Hosting environment: Development
+2025-01-10 10:15:35.396 +02:00 [INF] Content root path: C:\Users\Lidia\source\repos\GameServer2\GameServer2
+2025-01-10 10:15:47.825 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - null null
+2025-01-10 10:15:47.865 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:15:47.890 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - null null
+2025-01-10 10:15:47.890 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:15:50.579 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:15:55.421 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:15:56.472 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:15:57.132 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:16:00.717 +02:00 [ERR] Application error: The remote party closed the WebSocket connection without completing the close handshake.
+2025-01-10 10:16:00.717 +02:00 [ERR] Application error: The remote party closed the WebSocket connection without completing the close handshake.
+2025-01-10 10:16:00.718 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 10:16:00.718 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 10:16:00.720 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - 101 null null 12830.3706ms
+2025-01-10 10:16:00.720 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - 101 null null 12901.6368ms
+2025-01-10 10:16:40.221 +02:00 [INF] Saved 4 entities to in-memory store.
+2025-01-10 10:16:40.360 +02:00 [INF] Now listening on: https://localhost:7200
+2025-01-10 10:16:40.360 +02:00 [INF] Now listening on: http://localhost:5123
+2025-01-10 10:16:40.362 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-10 10:16:40.362 +02:00 [INF] Hosting environment: Development
+2025-01-10 10:16:40.362 +02:00 [INF] Content root path: C:\Users\Lidia\source\repos\GameServer2\GameServer2
+2025-01-10 10:16:50.721 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - null null
+2025-01-10 10:16:50.754 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:16:50.777 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - null null
+2025-01-10 10:16:50.777 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:16:52.404 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:16:53.716 +02:00 [ERR] Application error: Attempted to update or delete an entity that does not exist in the store.
+2025-01-10 10:16:53.718 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 10:16:53.720 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - 101 null null 3002.9349ms
+2025-01-10 10:16:53.786 +02:00 [ERR] Application error: The remote party closed the WebSocket connection without completing the close handshake.
+2025-01-10 10:16:53.786 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 10:16:53.786 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - 101 null null 3009.6065ms
+2025-01-10 10:18:39.946 +02:00 [INF] Saved 4 entities to in-memory store.
+2025-01-10 10:18:40.107 +02:00 [INF] Now listening on: https://localhost:7200
+2025-01-10 10:18:40.108 +02:00 [INF] Now listening on: http://localhost:5123
+2025-01-10 10:18:40.109 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-10 10:18:40.110 +02:00 [INF] Hosting environment: Development
+2025-01-10 10:18:40.110 +02:00 [INF] Content root path: C:\Users\Lidia\source\repos\GameServer2\GameServer2
+2025-01-10 10:19:02.280 +02:00 [INF] Saved 4 entities to in-memory store.
+2025-01-10 10:19:02.425 +02:00 [INF] Now listening on: https://localhost:7200
+2025-01-10 10:19:02.425 +02:00 [INF] Now listening on: http://localhost:5123
+2025-01-10 10:19:02.427 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-10 10:19:02.427 +02:00 [INF] Hosting environment: Development
+2025-01-10 10:19:02.427 +02:00 [INF] Content root path: C:\Users\Lidia\source\repos\GameServer2\GameServer2
+2025-01-10 10:19:06.024 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - null null
+2025-01-10 10:19:06.057 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:19:06.080 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - null null
+2025-01-10 10:19:06.080 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:19:07.587 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:19:08.869 +02:00 [ERR] Application error: Attempted to update or delete an entity that does not exist in the store.
+2025-01-10 10:19:08.870 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 10:19:08.873 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - 101 null null 2853.2029ms
+2025-01-10 10:19:08.938 +02:00 [ERR] Application error: The remote party closed the WebSocket connection without completing the close handshake.
+2025-01-10 10:19:08.938 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 10:19:08.938 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - 101 null null 2858.8517ms
+2025-01-10 10:19:13.290 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=cdef583a-f5d1-49f0-aae9-40fefbb2ed52 - null null
+2025-01-10 10:19:13.291 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:19:15.565 +02:00 [INF] Saved 2 entities to in-memory store.
+2025-01-10 10:19:18.535 +02:00 [ERR] Application error: Insufficient funds
+2025-01-10 10:19:18.535 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 10:19:18.536 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=cdef583a-f5d1-49f0-aae9-40fefbb2ed52 - 101 null null 5245.5665ms
+2025-01-10 10:19:36.486 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=cdef583a-f5d1-49f0-aae9-40fefbb2ed52 - null null
+2025-01-10 10:19:36.486 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:19:37.375 +02:00 [ERR] Application error: Insufficient funds
+2025-01-10 10:19:41.321 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 10:19:41.321 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=cdef583a-f5d1-49f0-aae9-40fefbb2ed52 - 101 null null 4834.9831ms
+2025-01-10 10:19:46.262 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=cdef583a-f5d1-49f0-aae9-40fefbb2ed52 - null null
+2025-01-10 10:19:46.262 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:19:47.015 +02:00 [ERR] Application error: Attempted to update or delete an entity that does not exist in the store.
+2025-01-10 10:19:53.600 +02:00 [INF] Saved 4 entities to in-memory store.
+2025-01-10 10:19:53.771 +02:00 [INF] Now listening on: https://localhost:7200
+2025-01-10 10:19:53.772 +02:00 [INF] Now listening on: http://localhost:5123
+2025-01-10 10:19:53.773 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-10 10:19:53.774 +02:00 [INF] Hosting environment: Development
+2025-01-10 10:19:53.774 +02:00 [INF] Content root path: C:\Users\Lidia\source\repos\GameServer2\GameServer2
+2025-01-10 10:19:54.259 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=cdef583a-f5d1-49f0-aae9-40fefbb2ed52 - null null
+2025-01-10 10:19:54.292 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:20:06.891 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:20:09.243 +02:00 [ERR] Application error: Attempted to update or delete an entity that does not exist in the store.
+2025-01-10 10:25:24.538 +02:00 [INF] Saved 4 entities to in-memory store.
+2025-01-10 10:25:24.687 +02:00 [INF] Now listening on: https://localhost:7200
+2025-01-10 10:25:24.687 +02:00 [INF] Now listening on: http://localhost:5123
+2025-01-10 10:25:24.689 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-10 10:25:24.689 +02:00 [INF] Hosting environment: Development
+2025-01-10 10:25:24.689 +02:00 [INF] Content root path: C:\Users\Lidia\source\repos\GameServer2\GameServer2
+2025-01-10 10:25:28.216 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=cdef583a-f5d1-49f0-aae9-40fefbb2ed52 - null null
+2025-01-10 10:25:28.252 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:25:28.916 +02:00 [ERR] Unknown route.
+2025-01-10 10:25:32.267 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:25:38.107 +02:00 [ERR] Application error: Attempted to update or delete an entity that does not exist in the store.
+2025-01-10 10:26:12.648 +02:00 [INF] Saved 4 entities to in-memory store.
+2025-01-10 10:26:12.809 +02:00 [INF] Now listening on: https://localhost:7200
+2025-01-10 10:26:12.810 +02:00 [INF] Now listening on: http://localhost:5123
+2025-01-10 10:26:12.811 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-10 10:26:12.812 +02:00 [INF] Hosting environment: Development
+2025-01-10 10:26:12.812 +02:00 [INF] Content root path: C:\Users\Lidia\source\repos\GameServer2\GameServer2
+2025-01-10 10:26:48.169 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=cdef583a-f5d1-49f0-aae9-40fefbb2ed52 - null null
+2025-01-10 10:26:48.203 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:26:59.055 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:27:01.358 +02:00 [ERR] Application error: Attempted to update or delete an entity that does not exist in the store.
+2025-01-10 10:27:04.083 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 10:27:04.085 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=cdef583a-f5d1-49f0-aae9-40fefbb2ed52 - 101 null null 15922.4211ms
+2025-01-10 10:33:11.873 +02:00 [INF] Saved 4 entities to in-memory store.
+2025-01-10 10:33:12.039 +02:00 [INF] Now listening on: https://localhost:7200
+2025-01-10 10:33:12.039 +02:00 [INF] Now listening on: http://localhost:5123
+2025-01-10 10:33:12.041 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-10 10:33:12.041 +02:00 [INF] Hosting environment: Development
+2025-01-10 10:33:12.041 +02:00 [INF] Content root path: C:\Users\Lidia\source\repos\GameServer2\GameServer2
+2025-01-10 10:33:36.645 +02:00 [INF] Saved 4 entities to in-memory store.
+2025-01-10 10:33:36.805 +02:00 [INF] Now listening on: https://localhost:7200
+2025-01-10 10:33:36.805 +02:00 [INF] Now listening on: http://localhost:5123
+2025-01-10 10:33:36.807 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-10 10:33:36.807 +02:00 [INF] Hosting environment: Development
+2025-01-10 10:33:36.808 +02:00 [INF] Content root path: C:\Users\Lidia\source\repos\GameServer2\GameServer2
+2025-01-10 10:33:51.483 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=cdef583a-f5d1-49f0-aae9-40fefbb2ed52 - null null
+2025-01-10 10:33:51.518 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:33:52.363 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:33:54.817 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:33:55.459 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:33:56.136 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:33:56.302 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:33:56.422 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:36:29.744 +02:00 [INF] Saved 4 entities to in-memory store.
+2025-01-10 10:36:29.918 +02:00 [INF] Now listening on: https://localhost:7200
+2025-01-10 10:36:29.918 +02:00 [INF] Now listening on: http://localhost:5123
+2025-01-10 10:36:29.920 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-10 10:36:29.920 +02:00 [INF] Hosting environment: Development
+2025-01-10 10:36:29.920 +02:00 [INF] Content root path: C:\Users\Lidia\source\repos\GameServer2\GameServer2
+2025-01-10 10:36:35.883 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=cdef583a-f5d1-49f0-aae9-40fefbb2ed52 - null null
+2025-01-10 10:36:35.917 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:36:41.160 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:38:37.199 +02:00 [INF] Saved 4 entities to in-memory store.
+2025-01-10 10:38:37.356 +02:00 [INF] Now listening on: https://localhost:7200
+2025-01-10 10:38:37.356 +02:00 [INF] Now listening on: http://localhost:5123
+2025-01-10 10:38:37.358 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-10 10:38:37.358 +02:00 [INF] Hosting environment: Development
+2025-01-10 10:38:37.358 +02:00 [INF] Content root path: C:\Users\Lidia\source\repos\GameServer2\GameServer2
+2025-01-10 10:38:50.348 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=cdef583a-f5d1-49f0-aae9-40fefbb2ed52 - null null
+2025-01-10 10:38:50.383 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:38:51.171 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:38:57.198 +02:00 [ERR] Application error: Attempted to update or delete an entity that does not exist in the store.
+2025-01-10 10:39:00.558 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 10:39:00.561 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=cdef583a-f5d1-49f0-aae9-40fefbb2ed52 - 101 null null 10217.7472ms
+2025-01-10 10:39:31.570 +02:00 [INF] Saved 4 entities to in-memory store.
+2025-01-10 10:39:31.712 +02:00 [INF] Now listening on: https://localhost:7200
+2025-01-10 10:39:31.712 +02:00 [INF] Now listening on: http://localhost:5123
+2025-01-10 10:39:31.714 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-10 10:39:31.714 +02:00 [INF] Hosting environment: Development
+2025-01-10 10:39:31.714 +02:00 [INF] Content root path: C:\Users\Lidia\source\repos\GameServer2\GameServer2
+2025-01-10 10:39:40.229 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=cdef583a-f5d1-49f0-aae9-40fefbb2ed52 - null null
+2025-01-10 10:39:40.268 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:39:40.976 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:39:43.323 +02:00 [ERR] Application error: Attempted to update or delete an entity that does not exist in the store.
+2025-01-10 10:39:47.669 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 10:39:47.672 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=cdef583a-f5d1-49f0-aae9-40fefbb2ed52 - 101 null null 7447.836ms
+2025-01-10 10:43:22.603 +02:00 [INF] Saved 4 entities to in-memory store.
+2025-01-10 10:43:22.761 +02:00 [INF] Now listening on: https://localhost:7200
+2025-01-10 10:43:22.761 +02:00 [INF] Now listening on: http://localhost:5123
+2025-01-10 10:43:22.763 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-10 10:43:22.763 +02:00 [INF] Hosting environment: Development
+2025-01-10 10:43:22.763 +02:00 [INF] Content root path: C:\Users\Lidia\source\repos\GameServer2\GameServer2
+2025-01-10 10:43:30.854 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=cdef583a-f5d1-49f0-aae9-40fefbb2ed52 - null null
+2025-01-10 10:43:30.888 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:43:31.723 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:43:34.187 +02:00 [INF] Saved 2 entities to in-memory store.
+2025-01-10 10:43:34.814 +02:00 [ERR] Application error: Attempted to update or delete an entity that does not exist in the store.
+2025-01-10 10:43:45.827 +02:00 [INF] Saved 4 entities to in-memory store.
+2025-01-10 10:43:45.971 +02:00 [INF] Now listening on: https://localhost:7200
+2025-01-10 10:43:45.972 +02:00 [INF] Now listening on: http://localhost:5123
+2025-01-10 10:43:45.973 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-10 10:43:45.973 +02:00 [INF] Hosting environment: Development
+2025-01-10 10:43:45.973 +02:00 [INF] Content root path: C:\Users\Lidia\source\repos\GameServer2\GameServer2
+2025-01-10 10:43:52.208 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=cdef583a-f5d1-49f0-aae9-40fefbb2ed52 - null null
+2025-01-10 10:43:52.242 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:43:53.303 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:43:56.598 +02:00 [INF] Saved 2 entities to in-memory store.
+2025-01-10 10:43:57.171 +02:00 [ERR] Application error: Attempted to update or delete an entity that does not exist in the store.
+2025-01-10 10:44:10.818 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 10:44:10.821 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=cdef583a-f5d1-49f0-aae9-40fefbb2ed52 - 101 null null 18618.1566ms
+2025-01-10 10:44:13.619 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=cdef583a-f5d1-49f0-aae9-40fefbb2ed52 - null null
+2025-01-10 10:44:13.619 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:44:15.750 +02:00 [ERR] Application error: Attempted to update or delete an entity that does not exist in the store.
+2025-01-10 10:45:10.535 +02:00 [INF] Saved 4 entities to in-memory store.
+2025-01-10 10:45:10.691 +02:00 [INF] Now listening on: https://localhost:7200
+2025-01-10 10:45:10.691 +02:00 [INF] Now listening on: http://localhost:5123
+2025-01-10 10:45:10.693 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-10 10:45:10.693 +02:00 [INF] Hosting environment: Development
+2025-01-10 10:45:10.693 +02:00 [INF] Content root path: C:\Users\Lidia\source\repos\GameServer2\GameServer2
+2025-01-10 10:45:12.009 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=cdef583a-f5d1-49f0-aae9-40fefbb2ed52 - null null
+2025-01-10 10:45:12.048 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:45:14.673 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:45:36.769 +02:00 [INF] Saved 2 entities to in-memory store.
+2025-01-10 10:53:32.691 +02:00 [INF] Saved 4 entities to in-memory store.
+2025-01-10 10:53:32.849 +02:00 [INF] Now listening on: https://localhost:7200
+2025-01-10 10:53:32.849 +02:00 [INF] Now listening on: http://localhost:5123
+2025-01-10 10:53:32.851 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-10 10:53:32.851 +02:00 [INF] Hosting environment: Development
+2025-01-10 10:53:32.851 +02:00 [INF] Content root path: C:\Users\Lidia\source\repos\GameServer2\GameServer2
+2025-01-10 10:53:41.465 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=cdef583a-f5d1-49f0-aae9-40fefbb2ed52 - null null
+2025-01-10 10:53:41.502 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:53:42.238 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:53:47.743 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:53:49.766 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:53:50.193 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:53:52.798 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 10:53:52.801 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=cdef583a-f5d1-49f0-aae9-40fefbb2ed52 - 101 null null 11341.3955ms
+2025-01-10 10:54:03.322 +02:00 [INF] Saved 4 entities to in-memory store.
+2025-01-10 10:54:03.546 +02:00 [INF] Now listening on: https://localhost:7200
+2025-01-10 10:54:03.547 +02:00 [INF] Now listening on: http://localhost:5123
+2025-01-10 10:54:03.549 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-10 10:54:03.549 +02:00 [INF] Hosting environment: Development
+2025-01-10 10:54:03.549 +02:00 [INF] Content root path: C:\Users\Lidia\source\repos\GameServer2\GameServer2
+2025-01-10 10:54:06.356 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - null null
+2025-01-10 10:54:06.389 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:54:06.414 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - null null
+2025-01-10 10:54:06.414 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:54:11.114 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:54:12.118 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:54:12.636 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:54:12.984 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:54:14.483 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:54:18.316 +02:00 [ERR] Application error: Player not found
+2025-01-10 10:54:23.236 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 10:54:23.238 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - 101 null null 16887.8418ms
+2025-01-10 10:54:23.298 +02:00 [ERR] Application error: The remote party closed the WebSocket connection without completing the close handshake.
+2025-01-10 10:55:14.491 +02:00 [INF] Saved 4 entities to in-memory store.
+2025-01-10 10:55:14.654 +02:00 [INF] Now listening on: https://localhost:7200
+2025-01-10 10:55:14.655 +02:00 [INF] Now listening on: http://localhost:5123
+2025-01-10 10:55:14.656 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-10 10:55:14.656 +02:00 [INF] Hosting environment: Development
+2025-01-10 10:55:14.656 +02:00 [INF] Content root path: C:\Users\Lidia\source\repos\GameServer2\GameServer2
+2025-01-10 10:55:18.614 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - null null
+2025-01-10 10:55:18.648 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:55:18.672 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - null null
+2025-01-10 10:55:18.672 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:55:20.243 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:55:20.760 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:55:24.069 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:55:26.398 +02:00 [ERR] Application error: Player not found
+2025-01-10 10:55:36.378 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 10:55:36.381 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - 101 null null 17771.895ms
+2025-01-10 10:55:36.441 +02:00 [ERR] Application error: The remote party closed the WebSocket connection without completing the close handshake.
+2025-01-10 10:55:37.387 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 10:55:37.387 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - 101 null null 18716.1843ms
+2025-01-10 10:55:45.620 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - null null
+2025-01-10 10:55:45.620 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:55:45.631 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - null null
+2025-01-10 10:55:45.631 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:55:50.759 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:55:51.332 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:57:08.245 +02:00 [INF] Saved 4 entities to in-memory store.
+2025-01-10 10:57:08.401 +02:00 [INF] Now listening on: https://localhost:7200
+2025-01-10 10:57:08.401 +02:00 [INF] Now listening on: http://localhost:5123
+2025-01-10 10:57:08.403 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-10 10:57:08.403 +02:00 [INF] Hosting environment: Development
+2025-01-10 10:57:08.403 +02:00 [INF] Content root path: C:\Users\Lidia\source\repos\GameServer2\GameServer2
+2025-01-10 10:57:16.090 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - null null
+2025-01-10 10:57:16.126 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:57:16.151 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - null null
+2025-01-10 10:57:16.151 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:57:18.225 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:57:18.352 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:57:20.348 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:57:25.546 +02:00 [INF] Saved 2 entities to in-memory store.
+2025-01-10 10:57:38.761 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 10:57:38.763 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - 101 null null 22678.973ms
+2025-01-10 10:57:38.769 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 10:57:38.769 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - 101 null null 22618.9629ms
+2025-01-10 10:58:22.861 +02:00 [INF] Saved 4 entities to in-memory store.
+2025-01-10 10:58:23.021 +02:00 [INF] Now listening on: https://localhost:7200
+2025-01-10 10:58:23.022 +02:00 [INF] Now listening on: http://localhost:5123
+2025-01-10 10:58:23.023 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-10 10:58:23.024 +02:00 [INF] Hosting environment: Development
+2025-01-10 10:58:23.024 +02:00 [INF] Content root path: C:\Users\Lidia\source\repos\GameServer2\GameServer2
+2025-01-10 10:58:27.221 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - null null
+2025-01-10 10:58:27.255 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:58:27.279 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - null null
+2025-01-10 10:58:27.279 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 10:58:28.805 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:58:30.888 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:58:32.958 +02:00 [INF] Saved 2 entities to in-memory store.
+2025-01-10 10:58:37.079 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:58:37.733 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:58:38.090 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:58:38.780 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:58:43.174 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 10:58:45.007 +02:00 [INF] Saved 2 entities to in-memory store.
+2025-01-10 10:58:47.237 +02:00 [ERR] Application error: Insufficient funds
+2025-01-10 10:58:50.687 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 10:58:50.689 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - 101 null null 23410.4576ms
+2025-01-10 10:58:50.748 +02:00 [ERR] Application error: The remote party closed the WebSocket connection without completing the close handshake.
+2025-01-10 10:58:52.317 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 10:58:52.317 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - 101 null null 25102.8626ms
+2025-01-10 11:01:25.292 +02:00 [INF] Saved 4 entities to in-memory store.
+2025-01-10 11:01:25.437 +02:00 [INF] Now listening on: https://localhost:7200
+2025-01-10 11:01:25.438 +02:00 [INF] Now listening on: http://localhost:5123
+2025-01-10 11:01:25.439 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-10 11:01:25.440 +02:00 [INF] Hosting environment: Development
+2025-01-10 11:01:25.440 +02:00 [INF] Content root path: C:\Users\Lidia\source\repos\GameServer2\GameServer2
+2025-01-10 11:01:29.119 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - null null
+2025-01-10 11:01:29.157 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 11:01:29.182 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - null null
+2025-01-10 11:01:29.182 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 11:01:30.532 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 11:01:33.918 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 11:01:35.115 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 11:01:36.266 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 11:01:38.866 +02:00 [ERR] Application error: The remote party closed the WebSocket connection without completing the close handshake.
+2025-01-10 11:01:38.866 +02:00 [ERR] Application error: The remote party closed the WebSocket connection without completing the close handshake.
+2025-01-10 11:01:57.690 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 11:01:57.690 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 11:01:57.692 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - 101 null null 28510.2089ms
+2025-01-10 11:01:57.692 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - 101 null null 28579.8089ms
+2025-01-10 11:01:57.716 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - null null
+2025-01-10 11:01:57.716 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 11:01:57.726 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - null null
+2025-01-10 11:01:57.727 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 11:02:04.762 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 11:02:06.306 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 11:02:06.580 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 11:02:10.408 +02:00 [ERR] Application error: The remote party closed the WebSocket connection without completing the close handshake.
+2025-01-10 11:02:10.408 +02:00 [ERR] Application error: The remote party closed the WebSocket connection without completing the close handshake.
+2025-01-10 11:02:14.409 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 11:02:14.409 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 11:02:14.410 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - 101 null null 16693.8518ms
+2025-01-10 11:02:14.410 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - 101 null null 16683.48ms
+2025-01-10 11:05:25.487 +02:00 [INF] Saved 4 entities to in-memory store.
+2025-01-10 11:05:25.633 +02:00 [INF] Now listening on: https://localhost:7200
+2025-01-10 11:05:25.633 +02:00 [INF] Now listening on: http://localhost:5123
+2025-01-10 11:05:25.634 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-10 11:05:25.635 +02:00 [INF] Hosting environment: Development
+2025-01-10 11:05:25.635 +02:00 [INF] Content root path: C:\Users\Lidia\source\repos\GameServer2\GameServer2
+2025-01-10 11:05:25.864 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - null null
+2025-01-10 11:05:25.898 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 11:05:25.918 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - null null
+2025-01-10 11:05:25.919 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 11:05:31.985 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 11:05:35.712 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 11:05:36.667 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 11:05:37.691 +02:00 [INF] Saved 1 entities to in-memory store.
+2025-01-10 11:05:38.766 +02:00 [INF] Saved 2 entities to in-memory store.
+2025-01-10 11:05:40.951 +02:00 [INF] Saved 2 entities to in-memory store.
+2025-01-10 11:05:42.763 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 11:05:42.765 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - 101 null null 16905.1261ms
+2025-01-10 11:05:42.771 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 11:05:42.771 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - 101 null null 16852.7808ms
+2025-01-10 11:05:55.732 +02:00 [INF] Saved 4 entities to in-memory store.
+2025-01-10 11:05:55.878 +02:00 [INF] Now listening on: https://localhost:7200
+2025-01-10 11:05:55.879 +02:00 [INF] Now listening on: http://localhost:5123
+2025-01-10 11:05:55.880 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-10 11:05:55.880 +02:00 [INF] Hosting environment: Development
+2025-01-10 11:05:55.880 +02:00 [INF] Content root path: C:\Users\Lidia\source\repos\GameServer2\GameServer2
+2025-01-10 11:05:56.106 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - null null
+2025-01-10 11:05:56.140 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 11:05:56.162 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - null null
+2025-01-10 11:05:56.162 +02:00 [INF] Executing endpoint '/ws'
+2025-01-10 11:05:59.932 +02:00 [ERR] Application error: The remote party closed the WebSocket connection without completing the close handshake.
+2025-01-10 11:05:59.932 +02:00 [ERR] Application error: The remote party closed the WebSocket connection without completing the close handshake.
+2025-01-10 11:06:04.338 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 11:06:04.338 +02:00 [INF] Executed endpoint '/ws'
+2025-01-10 11:06:04.340 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=803efc45-43fc-4266-823e-085a1350a230 - 101 null null 8178.0148ms
+2025-01-10 11:06:04.340 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7200/ws?deviceId=62d6b0d7-c885-4d2c-8b82-4b3fbc518e3f - 101 null null 8239.0298ms
